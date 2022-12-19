@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+img {
+	padding: 10px;
+	/* Add 10 pixels of space on either side of the element */
+}
+
 ol, ul {
 	list-style: none;
 }
