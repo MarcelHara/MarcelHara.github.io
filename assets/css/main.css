@@ -37,6 +37,15 @@ body {
 	padding: 10px;
 }
 
+#homebutton{
+	margin: 0;
+		position: absolute;
+		top: 5%;
+		left: 50%;
+		-ms-transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
+}
+
 ol, ul {
 	list-style: none;
 }
